@@ -1,100 +1,412 @@
-1. Whatis the appropriaterole of internal auditing in an organization?
-() to perform an analysis of operations to maximize netprofits in all departments throughoutthe organization
-() to assess the organization's control mechanisms for overall efficiency andreliability
-() to serve as investigators and enforcers for the board of directors and the managementofthe organization
-() to assist the external auditor so that audit fees are reduced and consulting fees are minimized
-
-
-
-2. Whichis not an example of an internal control activity?
-() approval process
-() segregation of duties
-() review of manufacturing plan
-() bank reconciliations
-
-3. Internal controls may be preventive, detective, corrective, or directive. Which is a detective control?
-()  employee background checks
-()  data backups
-()  physical inventory check
-()  physical locks on inventory warehouse
-
-
-4. Whatdo you call the benefit sacrificed when one option is chosen over another?
-()   differential cost
-()  opportunity cost
-()  indirect cost
-()   sunk cost
-
-5. What typeof audit evidence would be considered the weakest type?
-()  physical examination
-() confirmation
-()  documentary evidence
-()  oral evidence
-
-
-
-6. Which value chain element is associated with the cost of staffing a customer support phone line?
-() customerservice
-()  production and purchases
-()   design
-()   distribution
-
-
-
-7. At McKay Company, machine hoursare limited. There is more demand for McKay's products than it can produce due to limited machine hours. To
+1) Whatcostis easily traceable to a cost object?
+o fixed
+o direct
+o variable
+o indirect
+2) How are the threefinancial statements (income statement, balance sheet, and cash flow
+statement)linked?
+o The net income goesto retained earnings, but the cash flow remains independent.
+o The net income goes to retained earnings and to the cash flow statement.
+o Only the assets are reflected in the cash flow statement, and the net income
+expensescorrelate with the liabilities.
+o The gross profit goes to retained earnings, and the shareholder equity total is added to the
+cash flow statement.
+3) Internal controls may be preventive, detective, corrective, or directive. Which is a
+detective control?
+o employee background checks
+o physical locks on inventory warehouse
+o physical inventory check
+o data backups
+4) Whattype of audit evidence would be considered the weakest type?
+o documentary evidence
+o confirmation
+o oral evidence
+o physical examination
+5) If CompanyAhas a net profit margin of 60% and Company has a net profit margin of 40%,
+what can you conclude?
+o CompanyB is more profitable than Company A.
+o CompanyAis more profitable than CompanyB.
+o CompanyAhashigher sales compared to CompanyB.
+o CompanyB hashigher sales compared to CompanyA.
+6) Which is an example of unstructured data?
+o names
+o video
+o phone numbers
+o dates
+7) The cost of alternative X is $25,000 andthe cost ofalternative Y is $20,000. What do youcall
+the $5,000 cost difference?
+o additional cost
+o sunk cost
+o differential cost
+o essential cost
+8) Whichvalue chain elementis associated with the cost of staffing a customer support
+phoneline?
+o design
+o production and purchases
+o customerservice
+o distribution
+9) At McKay Company, machine hours arelimited. There is more demand for McKay's
+products than it can produce due to limited machine hours. To
+maximize profits, the company should evaluate each product's
+o gross profit per unit
+o contribution margin per unit
+o segment margin per unit
+o contribution margin per machine hour
+10) Whattype of audit evidence would be usedto indicate that accounts receivable balances
+are correct?
+o reperformance
+o oral evidence
+o physical examination
+o confirmation
+11) Whodoesan audit committee report to?
+o union or employee representatives
+o board of directors
+o external auditors
+o senior management
+12) Whatis an example of qualitative data?
+o temperature
+o price
+o personality
+o height
+13) Which statement about currentliabilities is true?
+o Currentliabilities should be included under long-term liabilities.
+o Currentliabilities are obligations owed over 5 years.
+o Currentliabilities are obligations owed after a 12-month period.
+o Currentliabilities are obligations due within a year.
+14) Whatdo youcall the benefit sacrificed when one option is chosen over another?
+o indirect cost
+o sunk cost
+o opportunity cost
+o differential cost
+15) What happens when onepersonis responsible for the activities of ordering, receiving, and
+paying for inventory?
+o It reduces overall costs and maximizesprofitability.
+o It increases the potential for fraud and errors.
+o It decreases the potential for fraud and errors.
+o It is an appropriate example for properinternal controls.
+16) What doesthe discontinued operations section of the income statementrefer to?
+o a plant shutdown or decommissioning ofa facility
+o disposal of a major productline or major geographical area of operations
+o net incomeorloss for products completed and sold
+o sale of unused or obsolete equipment and discontinued inventory
+17) What doesthe cost of a unit of product under absorption costing method consist of?
+o direct materials, direct and indirect labor, and variable overhead
+o direct materials, indirect labor, and variable and fixed overhead
+o direct materials, direct and indirect labor, and fixed overhead
+o direct materials, direct labor, and both variable and fixed overhead
+18) Whatis the term for a category or collection of business managementsoftware that an
+organization can use tocollect, store, manage, andinterpret data
+o from many businessactivities?
+o (customerrelationship management (CRM)
+o ( enterprise resource planning (ERP)
+o ‘businessintelligence(Bl)
+o {general ledger (GL)
+19) A human resources department within a national retailer is what type of responsibility
+center?
+o cost center
+o investment center
+o profit center
+o revenue center
+20) Whichis the appropriate term for an incurred cost that cannot be changed by any
+decision?
+o opportunity cost
+o sunk cost
+o variable cost
+o previous cost
+21) An employee who makesa sale, ships the goods, and bills the customer violates which
+control activity?
+o segregation of duties
+o audit verification
+o review and reconciliation
+o assignmentof responsibility
+22) Whattype of audit evidence would mostlikely be used to verify the existenceoffixed
+assets?
+o documentary evidence
+o oral evidence
+o confirmation
+o physical examination
+23) Whatinformation does an income statement provide?
+o cash flow from operating activities, investing activities, and financing activities
+o net income and the components of other comprehensive income
+o profitability information related to revenues, expenses, and net income
+o information about the financial position reporting assets,liabilities, and equity
+24) Which event would not be considered a significant audit finding that should be included in
+audit documentation?
+o retirement of the accounts receivable managerfollowed bythe hiring of a replacement
+o chargesfiled against the companyofficers for paymentof a political bribe
+o paymentfor a fake invoicefor a fictitious company submitted by an accounts payable clerk
+o discovery of a material sale recordedin the current year that belonged in the subsequent
+year
+25) Which item would have the least impact on the content and extent of audit
+documentation?
+o the risk associated with the audit and procedures
+o the nature and extent of any problemsidentified
+o the specific audit procedures employed
+o the numberof partner hours budgetedfor the audit
+26) Whichis not an example of an internal control activity?
+o review of manufacturing plan
+o segregation of duties
+o bank reconciliations
+o approval process
+27) Whattype of audit evidence would mostlikely be used to verify the existence offixed
+assets?
+o documentary evidence
+o physical examination
+o confirmation
+o oral evidence
+28) Which budgeting approach requires justification for all expenditures?
+o master budgeting
+o bottom-up budgeting
+o _zero-based budgeting
+o rolling budgets
+29) Which budgeting approach requiresjustification for all expenditures?
+o master budgeting
+o bottom-up budgeting
+o zero-based budgeting
+o rolling budgets
+30) Direct labor variances can be broken downinto which two categories?
+o rate and price variances
+o rate and usage variances
+o efficiency and price variances
+o efficiency and rate variances
+31) A human resources departmentwithin a national retailer is what type of responsibility
+center?
+o profit center
+o revenue center
+o cost center
+o investment center
+32) The cost of alternative X is $25,000 and the costofalternative Y is $20,000. What do you
+call the $5,000 cost difference?
+o additional cost
+o essential cost
+o sunk cost
+o differential cost
+33) Whattype of audit evidence would be considered the weakest type?
+o physical examination
+o documentary evidence
+o confirmation
+o oral evidence
+34) Which statement about currentliabilities is true?
+o Currentliabilities are obligations due within a year.
+o Currentliabilities are obligations owed over5 years.
+o Currentliabilities are obligations owed after a 12-monthperiod.
+o Currentliabilities should be included under long-termliabilities.
+35) Which value chain elementis associated with the cost of staffing a customer support
+phoneline?
+o customerservice
+o distribution
+o design
+o production and purchases
+36) Whatdo you call the benefit sacrificed when one option is chosen over another?
+o indirect cost
+o opportunity cost
+o differential cost
+o sunk cost
+37) At McKay Company, machine hours are limited. There is more demand for McKay's
+products than it can produce due to limited
+o machine hours. To maximizeprofits, the company should evaluate each product's
+o grossprofit per unit
+o segment margin per unit
+o contribution margin per unit
+o contribution margin per machine hour
+38) Which is an example of unstructured data?
+o video
+o phone numbers
+o dates
+o names
+39) Whattype of audit evidence would be usedto indicate that accounts receivable balances
+are correct?
+o physical examination
+o oral evidence
+o confirmation
+o reperformance
+40) What happens when onepersonis responsible for the activities of ordering, receiving, and
+paying for inventory?
+o It reduces overall costs and maximizesprofitability.
+o It increases the potential for fraud and errors.
+o It decreases the potential for fraud and errors.
+o It is an appropriate example for properinternal controls.
+41) Whodoes an audit committee report to?
+o board of directors
+o | external auditors
+o union or employeerepresentatives
+o senior management
+42) If Company A has a net profit margin of 60% and Company hasa net profit margin of 40%,
+what can you conclude?
+o CompanyB has higher sales compared to CompanyA.
+o CompanyB is more profitable than Company A.
+o CompanyA has higher sales compared to CompanyB.
+o CompanyA is more profitable than CompanyB.
+43) Whatcostis easily traceable to a cost object?
+o fixed
+o indirect
+o variable
+o direct
+44) How arethe three financial statements (income statement, balance sheet, and cash flow
+statement) linked?
+o The net income goesto retained earnings andto the cash flow statement.
+o Only the assets are reflected in the cash flow statement, and the net income
+expensescorrelate with the liabilities.
+o The gross profit goes to retained earnings, and the shareholder equity total is added to the
+cash flow statement.
+o The net income goesto retained earnings, but the cash flow remains independent.
+45) Internal controls may be preventive, detective, corrective, or directive. Which is a
+detective control?
+o employee background checks
+o physical locks on inventory warehouse
+o physical inventory check
+o data backups
+46) Whatis an example of qualitative data?
+o personality
+o height
+o temperature
+o price
+47) Whatis the term fora category or collection of business managementsoftware that an
+organization can use to collect, store,
+o manage,andinterpret data from many business activities?
+o general ledger (GL)
+o customerrelationship management (CRM)
+o enterprise resource planning (ERP)
+o business intelligence (Bl)
+48) Which statementis not an advantage of robotic process automation (RPA)?
+o Bots do not needto take time off.
+o Bots improveefficiency.
+o Bots can eliminate human errors.
+o Bots are more creative than humans.
+49) An employee who makesa sale, ships the goods, and bills the customerviolates which
+control activity?
+o audit verification
+o segregation of duties
+o review and reconciliation
+o assignment of responsibility
+50) Whichis the appropriate term for an incurred cost that cannot be changedbyany decision?
+o previous cost
+o opportunity cost
+o variable cost
+o sunk cost
+51) What does "independence" mean in auditing?
+o being an advocateforall clients
+o not being dependent on a client's fee
+o having only indirect financial interests in the auditee
+o taking an unbiased viewpoint
+52) Which event would not be considered a significant audit finding that should be included in
+audit documentation?
+o paymentfora fake invoice for a fictitious company submitted by an accounts payable clerk
+o discovery of a material sale recorded in the current year that belonged in the subsequent
+year
+o retirement of the accounts receivable managerfollowed by the hiring of a replacement
+o chargesfiled against the companyofficers for paymentof a political bribe
+53) Whatinformation does an income statement provide?
+o net income and the components of other comprehensive income
+o cash flow from operating activities, investing activities, and financing activities
+o information aboutthe financial position reporting assets,liabilities, and equity
+o profitability information related to revenues, expenses, and net income
+54) Whatdoesthecost of a unit of product under absorption costing method consist of?
+o direct materials, direct and indirect labor, and variable overhead
+o direct materials, direct and indirect labor, and fixed overhead
+o direct materials, direct labor, and both variable and fixed overhead
+o direct materials, indirect labor, and variable and fixed overhead
+55) Whatis the appropriate role of internal auditing in an organization?
+o to assist the external auditor so that audit fees are reduced and consulting fees are
+minimized
+o to serve as investigators and enforcers for the board of directors and the managementof
+the organization
+o to assess the organization's control mechanismsfor overall efficiency and reliability
+o to perform an analysis of operations to maximize net profits in all departments throughout
+the organization
+56) Which is not an example of an internal control activity?
+o bank reconciliations
+o segregation of duties
+o approval process
+o review of manufacturing plan
+57) Whateffect does a contra asset account have on a balance sheet?
+o A contra asset is not an accounting term.
+o A contra asset has a credit balance and therefore a negative effect on total assets.
+o A contra asset with a positive balance will increase overall liabilities.
+o A contra asset has a debit balance and therefore a positive effect on total assets.
+58) Whatis the appropriaterole of internal auditing in an organization?
+o to perform an analysis of operations to maximize netprofits in all departments
+throughoutthe organization
+o to assess the organization's control mechanisms for overall efficiency andreliability
+o to serve as investigators and enforcers for the board of directors and the
+managementofthe organization
+o to assist the external auditor so that audit fees are reduced and consulting fees are
+minimized
+59) Whichis not an example of an internal control activity?
+o approval process
+o segregation of duties
+o review of manufacturing plan
+o bank reconciliations
+60) Internal controls may be preventive, detective, corrective, or directive. Which is a
+detective control?
+o employee background checks
+o data backups
+o physical inventory check
+o physical locks on inventory warehouse
+61) Whatdo you call the benefit sacrificed when one option is chosen over another?
+o differential cost
+o opportunity cost
+o indirect cost
+o sunk cost
+62) What typeof audit evidence would be considered the weakest type?
+o physical examination
+o confirmation
+o documentary evidence
+o oral evidence
+63) Which value chain element is associated with the cost of staffing a customer support
+phone line?
+o customerservice
+o production and purchases
+o design
+o distribution
+64) . At McKay Company, machine hoursare limited. There is more demand for McKay's
+products than it can produce due to limited machine hours. To
 maximize profits, the company should evaluate each product's :
-()   segment margin perunit
-()   gross profit per unit
-()  contribution margin per unit
-()  contribution margin per machine hour
-
-8. The costof alternative X is $25,000 and the costofalternative Y is $20,000. What do youcall the $5,000 cost difference?
-() additional cost
-()  differential cost
-()  sunk cost
-()  essential cost
-
-
-9. Which statement about currentliabilities is true?
-()   Currentliabilities are obligations owed over 5 years.
-()   Currentliabilities are obligations owed after a 12-month period.
-()   Currentliabilities should be included underlong-term liabilities.
-()  Currentliabilities are obligations due within a year.
-
-
-10.Whattype of audit evidence would be usedto indicate that accounts receivable balances are correct?
-()   reperformance
-()   oral evidence
-()   confirmation
-()   physical examination
-
-11. Which is an example of unstructured data?
-
-()  names
-() video
-()dates
-()  phone numbers
-
-12.Which is an assurance engagement?
-()   audit
-()   networkinstallation
-()   review
-()   compilatio
-
-13.What is an example of qualitative data?
-()   temperature
-()   height
-()   price
-()  personality
-
-14.A human resources departmentwithin a national retailer is what type of responsibility center?
-()   cost center
-()   investment center
-()   revenue center
-()   profit center
-
-15.What happens when onepersonis responsible for the activities of ordering, receiving, and paying for inventory?
-()   It is an appropriate example for properinternal controls.
-()   It decreases the potential for fraud and errors.
-()   It increases the potential for fraud and errors.
-()   It reduces overall costs and maximizes profitability.
+o segment margin perunit
+o gross profit per unit
+o contribution margin per unit
+o contribution margin per machine hour
+65) The costof alternative X is $25,000 and the costofalternative Y is $20,000. What do youcall
+the $5,000 cost difference?
+o additional cost
+o differential cost
+o sunk cost
+o essential cost
+66) Which statement about currentliabilities is true?
+o Currentliabilities are obligations owed over 5 years.
+o Currentliabilities are obligations owed after a 12-month period.
+o Currentliabilities should be included underlong-term liabilities.
+o Currentliabilities are obligations due within a year.
+67) Whattype of audit evidence would be usedto indicate that accounts receivable balances
+are correct?
+o reperformance
+o oral evidence
+o confirmation
+o physical examination
+68) Which is an example of unstructured data?
+o names
+o video
+o dates
+o phone numbers
+69) Which is an assurance engagement?
+o audit
+o networkinstallation
+o review
+o compilatio
+70) What is an example of qualitative data?
+o temperature
+o height
+o price
+o personality
+71) A human resources departmentwithin a national retailer is what type of responsibility
+center?
+o cost center
+o investment center
+o revenue center
+o profit center
+72) What happens when onepersonis responsible for the activities of ordering, receiving, and
+paying for inventory?
+o It is an appropriate example for properinternal controls.
+o It decreases the potential for fraud and errors.
+o It increases the potential for fraud and errors.
+o It reduces overall costs and maximizes profitability.
